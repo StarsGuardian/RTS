@@ -4,9 +4,9 @@ public class Test {
 	
 	public static void main(String[] args) {
 		Test test = new Test();
-		int[] array = {1,5,2,1,10};
+		int[] array = {};
 		test.print(array, 6);
-		test.rotate("My", -2);
+		test.rotate("MyString", -2);
 	}
 	
 	public void print(int[] array, int input) {
