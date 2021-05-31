@@ -6,7 +6,7 @@ public class Test {
 		Test test = new Test();
 		int[] array = {1,5,2,1,10};
 		test.print(array, 6);
-		test.rotate("I don't wanna do coding stuff", -8021);
+		test.rotate("My", -2);
 	}
 	
 	public void print(int[] array, int input) {
